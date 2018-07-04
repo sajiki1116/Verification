@@ -22,5 +22,6 @@ public class PushTest {
 	}
 	public void name(){
 		System.out.println("これはテストです。");
+		System.out.println("マージのための実験です。");
 	}
 }
