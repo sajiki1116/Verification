@@ -8,4 +8,13 @@ public class PushTest {
 	public void close(){
 		System.out.println("test");
 	}
+	public void kame(){
+
+	}
+	public void test1(){
+
+	}
+	public void test2(){
+
+	}
 }
